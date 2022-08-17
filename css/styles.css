@@ -17,7 +17,7 @@ h1 {
     margin-bottom: 20px;
 }
 
-@media (min-width: 992px) {
+@media (min-width: 768px) {
     .single-item {
         width: 97.5%;
     }
