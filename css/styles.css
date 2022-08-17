@@ -7,18 +7,9 @@
     border: solid black 2px;
     padding: 5px;
     margin-bottom: 30px;
-    height: 100%;
 }
 
-.food-item-single {
-    background-color: gray;
-    box-sizing: border-box;
-    width: 95%;
-    margin-left: auto;
-    margin-right: auto;
-    border: solid black 2px;
-    padding: 5px;
-    margin-bottom: 30px;
+.single-item {
 }
 
 h1 {
@@ -26,8 +17,8 @@ h1 {
     margin-bottom: 20px;
 }
 
-@media (min-width: 767px) {
-    .food-item-single {
+@media (min-width: 992px) {
+    .single-item {
         width: 97.5%;
     }
 }
