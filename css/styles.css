@@ -9,15 +9,12 @@
     margin-bottom: 30px;
 }
 
-.single-item {
-}
-
 h1 {
     margin-top: 20px;
     margin-bottom: 20px;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 769px) and (max-width: 992px) {
     .single-item {
         width: 97.5%;
     }
